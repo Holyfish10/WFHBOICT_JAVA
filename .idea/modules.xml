@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/WFHBOICT_JAVA.iml" filepath="$PROJECT_DIR$/.idea/WFHBOICT_JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theorie-08-06-21/opgave-1/opgave-1.iml" filepath="$PROJECT_DIR$/theorie-08-06-21/opgave-1/opgave-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theorie-08-06-21/opgave-2/opgave-2.iml" filepath="$PROJECT_DIR$/theorie-08-06-21/opgave-2/opgave-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theorie-08-06-21/opgave-3/opgave-3.iml" filepath="$PROJECT_DIR$/theorie-08-06-21/opgave-3/opgave-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theorie-08-06-21/opgave-4/opgave-4.iml" filepath="$PROJECT_DIR$/theorie-08-06-21/opgave-4/opgave-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theorie-09-04-21/opgave1/opgave1.iml" filepath="$PROJECT_DIR$/theorie-09-04-21/opgave1/opgave1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theorie-09-04-21/opgave2/opgave2.iml" filepath="$PROJECT_DIR$/theorie-09-04-21/opgave2/opgave2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theorie-09-04-21/opgave3/opgave3.iml" filepath="$PROJECT_DIR$/theorie-09-04-21/opgave3/opgave3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theorie-09-04-21/opgave4/opgave4.iml" filepath="$PROJECT_DIR$/theorie-09-04-21/opgave4/opgave4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theorie-09-04-21/opgave5/opgave5.iml" filepath="$PROJECT_DIR$/theorie-09-04-21/opgave5/opgave5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theorie-08-06-21/theorie-08-06-21.iml" filepath="$PROJECT_DIR$/theorie-08-06-21/theorie-08-06-21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theorie-09-04-21/theorie-09-04-21.iml" filepath="$PROJECT_DIR$/theorie-09-04-21/theorie-09-04-21.iml" />
+    </modules>
+  </component>
+</project>
